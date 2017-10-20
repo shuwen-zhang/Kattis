@@ -1,2 +1,2 @@
 # Kattis Solutions
-Solutions to Kattis problems using C++.
+Solutions to Kattis programming problems using C++.
