@@ -14,7 +14,6 @@ int main() {
 }
 
 int exp(int x, int n) {
-
 	if (n == 0)
 		return 1;
 	else if (n == 1)
@@ -23,5 +22,4 @@ int exp(int x, int n) {
 		return exp(x*x, n/2);
 	else
 		return exp(x*x, (n-1)/2) * x;
-
 }
